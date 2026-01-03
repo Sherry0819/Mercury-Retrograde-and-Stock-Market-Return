@@ -79,9 +79,3 @@ Then run:
 ```bash
 python scripts/00_prepare_data.py --raw-dir data/raw
 ```
-
-## My contribution (edit as needed)
-
-- Organized the end-to-end pipeline and refactored notebook logic into reusable modules
-- Implemented volatility features, fixed-effects regressions, and ARIMA-based event study
-- Added a small demo dataset and clear reproduction steps for portfolio use
